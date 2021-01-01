@@ -1,0 +1,11 @@
+---
+layout: default
+title: Home
+---
+
+{% for post in site.posts limit:1 %}  
+  <h3>{{post.title}}</h3>
+  <h4>{{post.date | date: "%B %d, %Y"}}</h4>
+  {{post.content}}
+{% endfor %}
+
