@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>relayfm on Solitarian</title>
+    <link>https://solitarian.ca/tags/relayfm/</link>
+    <description>Recent content in relayfm on Solitarian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://solitarian.ca/tags/relayfm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yearly Theme</title>
+      <link>https://solitarian.ca/blog/yearly-theme/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://solitarian.ca/blog/yearly-theme/</guid>
+      <description>As a regular listener to the Cortex podcast on Relay FM I’ve become interested in their discussions on yearly themes every year. This year I’ve decided to set one for myself.
+As I regularly fail New Years resolutions, the idea of setting a theme for the year seemed like a better way to bring about some positive change. There are no rules to the yearly themes. CGP Grey has a good video on the topic that explains it clearly.</description>
+    </item>
+    
+  </channel>
+</rss>

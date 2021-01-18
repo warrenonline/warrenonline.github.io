@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solitarian</title>
+    <link>https://solitarian.ca/</link>
+    <description>Recent content on Solitarian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://solitarian.ca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yearly Theme</title>
+      <link>https://solitarian.ca/blog/yearly-theme/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://solitarian.ca/blog/yearly-theme/</guid>
+      <description>As a regular listener to the Cortex podcast on Relay FM I’ve become interested in their discussions on yearly themes every year. This year I’ve decided to set one for myself.
+As I regularly fail New Years resolutions, the idea of setting a theme for the year seemed like a better way to bring about some positive change. There are no rules to the yearly themes. CGP Grey has a good video on the topic that explains it clearly.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://solitarian.ca/blog/first-post/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://solitarian.ca/blog/first-post/</guid>
+      <description>My thoughts about coming back to writing started with an article I read by Ana Rodrigues last month. Long ago I was blogging and sharing links on my own domain before there was Twitter and Facebook. I ran the server off my home computer, that I built myself, and wrote the HTML on a document that I uploaded with FTP. Back then I experimented with Linux, FreeBSD and different content management systems.</description>
+    </item>
+    
+  </channel>
+</rss>
