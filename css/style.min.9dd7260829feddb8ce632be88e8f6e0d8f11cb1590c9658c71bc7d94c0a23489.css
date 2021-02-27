@@ -1,0 +1,1 @@
+body{font-family:Verdana,Geneva,Tahoma,sans-serif;margin:0;line-height:1.5rem}.container{display:grid;grid-template-columns:fit-content(20ch) minmax(min(50vw,30ch),1fr);grid-template-rows:1}.blog{padding:1rem}.sidebar{padding:10px;grid-template-columns:span 1}.infocard{background-color:#dcdcdc;border-radius:5px;padding:1rem}.infocard img{border-radius:50%;max-width:150px}
