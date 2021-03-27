@@ -1,70 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://solitarian.ca/blog/</loc>
     <lastmod>2021-02-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://solitarian.ca/tags/health/</loc>
     <lastmod>2021-02-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://solitarian.ca/blog/longevity/</loc>
     <lastmod>2021-02-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://solitarian.ca/</loc>
     <lastmod>2021-02-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://solitarian.ca/tags/</loc>
     <lastmod>2021-02-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://solitarian.ca/categories/</loc>
     <lastmod>2021-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://solitarian.ca/blog/running/</loc>
     <lastmod>2021-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://solitarian.ca/tags/running/</loc>
     <lastmod>2021-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://solitarian.ca/categories/yearlytheme/</loc>
     <lastmod>2021-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://solitarian.ca/tags/podcast/</loc>
     <lastmod>2020-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://solitarian.ca/tags/relayfm/</loc>
     <lastmod>2020-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://solitarian.ca/blog/yearly-theme/</loc>
     <lastmod>2020-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://solitarian.ca/blog/my-first-post/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
   </url>
-  
 </urlset>
